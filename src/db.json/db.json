@@ -1,0 +1,85 @@
+{
+  "seller": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": "4"
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": "5"
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": "6"
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": "7"
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": "8"
+    },
+    {
+      "name": "tommy",
+      "password": "123456",
+      "email": "tommy@tommy.com",
+      "id": "9"
+    },
+    {
+      "name": "Dogy",
+      "password": "123",
+      "email": "",
+      "id": "10"
+    },
+    {
+      "name": "dog",
+      "password": "545",
+      "email": "654dfg",
+      "id": "11"
+    },
+    {
+      "name": "Brusly",
+      "password": "pranf",
+      "email": "lkhnfgb",
+      "id": "12"
+    },
+    {
+      "id": "ca3d",
+      "name": "dimitry",
+      "password": "jsifh",
+      "email": "lhjskfb"
+    },
+    {
+      "id": "3daf",
+      "name": "lala",
+      "password": "kjbdf",
+      "email": "ksfnbk"
+    },
+    {
+      "id": "6ead",
+      "name": "ayusga",
+      "password": "sbf",
+      "email": "klsfeh"
+    }
+  ]
+}

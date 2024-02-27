@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+}
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.common-form{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+}
+
+.form-input{
+    height: 25px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    border: 1px solid blueviole
+}
+.form-button{
+    height: 30px;
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+}
