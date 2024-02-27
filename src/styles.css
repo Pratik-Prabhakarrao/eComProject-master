@@ -25,3 +25,8 @@ body{
     border: 1px solid blueviolet;
     border-radius: 10px;
 }
+
+.error-p{
+    color: red;
+    text-transform: lowercase;
+}

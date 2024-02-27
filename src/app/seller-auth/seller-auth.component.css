@@ -1,7 +1,15 @@
-.sign-up{
+.sign-up, .logIn{
     text-align: center;
     text-transform: uppercase;
     color: brown;
     margin-top: 80PX;
     margin-bottom: 50px;
+}
+.auth-toggle-link {
+    margin-top: 20px;
+    color: blueviolet;
+    font-size: 14px;
+    text-align: center;
+    text-transform:lowercase;
+    cursor: pointer;
 }
