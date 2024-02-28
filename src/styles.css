@@ -18,7 +18,7 @@ body{
     height: 25px;
     margin-bottom: 20px;
     padding-left: 10px;
-    border: 1px solid blueviole
+    border: 1px solid blueviolet
 }
 .form-button{
     height: 30px;
@@ -29,4 +29,8 @@ body{
 .error-p{
     color: red;
     text-transform: lowercase;
+}
+.p_message{
+    color: green;
+    
 }

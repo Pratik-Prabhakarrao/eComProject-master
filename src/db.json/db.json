@@ -87,5 +87,16 @@
       "password": "12345",
       "email": "dimitry@gmail.com"
     }
+  ],
+  "products": [
+    {
+      "id": "3c08",
+      "name": "Adani",
+      "price": "15000",
+      "color": "black",
+      "catagory": "Apple",
+      "description": "saf",
+      "image": "https://img.freepik.com/free-photo/blank-phone-screen-purple-background_53876-143196.jpg?w=2000&t=st=1709129850~exp=1709130450~hmac=0e1744cc72f2defb965e4b1c295b4fc58217306a15471462bf747fb34af8a174"
+    }
   ]
 }
